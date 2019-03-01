@@ -1,5 +1,2 @@
-# Hello-World
-Familiarisation with GitHub
-
-Possibly I will use this as a private folder for all my Python, LabVIEW and LaTEX files from my PhD
-Why is it saying that this file is up to date with the master? It is not, I have edited it. 
+# Read Me
+This folder contains all files related to practical model identifiability. These files are offline only, they are not meant to be used with LabVIEW. They most often only use simulated data instead of real data. The simulated data can be created by a number of different methods including factorial designs, latin squares or MBDoE.
